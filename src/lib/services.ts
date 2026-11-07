@@ -93,8 +93,8 @@ export const servicesEn: Service[] = [
     excerpt:
       "Minimal downtime office relocation — workstations, confidential files, IT infrastructure, and office furniture relocated seamlessly.",
     icon: "briefcase",
-    image: "/images/moving-truck-loaded-boxes-safe-transport.jpg",
-    imageAlt: "Office relocation truck loaded with labelled commercial boxes in the UAE",
+    image: "/images/packed-boxes-apartment-move-uae.jpg",
+    imageAlt: "Office relocation and commercial records systematically organized in moving boxes in the UAE",
     intro: [
       "Business downtime means lost revenue. Sun Star Movers provides precision commercial moving solutions designed around your operational schedule. Whether relocating a single executive suite or an entire corporate floor, we ensure zero disruption.",
       "We provide weekend and overnight relocation services so your team can shut down on Friday afternoon and resume operations in the new office on Monday morning.",
@@ -134,7 +134,7 @@ export const servicesEn: Service[] = [
     excerpt:
       "Export-quality boxes, industrial bubble wrap, and thick moving blankets — every fragile item treated with utmost protection.",
     icon: "package",
-    image: "/images/professional-furniture-packing-abu-dhabi.jpg",
+    image: "/images/professional-furniture-packing-uae.jpg",
     imageAlt: "Sun Star professional packers applying thick bubble wrap and protective stretch film",
     intro: [
       "Proper packing is the backbone of any successful, zero-damage move. Sun Star Movers employs expert packers trained in specialized packaging techniques for fragile glassware, fine china, luxury marble tops, and sensitive artwork.",
@@ -175,7 +175,7 @@ export const servicesEn: Service[] = [
     excerpt:
       "Master carpenters equipped with professional power tools for beds, sliding wardrobes, IKEA units, curtain rods, and TV mounting.",
     icon: "wrench",
-    image: "/images/wardrobe-installation-abu-dhabi.jpg",
+    image: "/images/wardrobe-installation-uae.jpg",
     imageAlt: "Sun Star master carpenter assembling a 6-door wardrobe in a UAE residence",
     intro: [
       "Modern bedroom sets, modular closets, and designer modular furniture require specialized tools and expert craftsmanship to dismantle and assemble without stripping screws or damaging hinges.",
@@ -257,7 +257,7 @@ export const servicesEn: Service[] = [
     excerpt:
       "Climate-monitored, secure warehouse storage for household furniture, commercial excess stock, and personal belongings.",
     icon: "warehouse",
-    image: "/images/packed-boxes-apartment-move-abu-dhabi.jpg",
+    image: "/images/mattress-headboard-blanket-wrapping.jpg",
     imageAlt: "Neatly stacked and shrink-wrapped furniture inside secure UAE storage",
     intro: [
       "Need a safe place to store your furniture while renovating, waiting for tenancy handover, or traveling abroad? Sun Star Movers provides flexible, clean, and secure storage facilities across the UAE.",
@@ -298,8 +298,8 @@ export const servicesEn: Service[] = [
     excerpt:
       "Modern fleet of enclosed, padded 3-ton and 7-ton moving trucks equipped with blankets, ramps, and professional drivers.",
     icon: "truck",
-    image: "/images/sun-star-real-move-1.jpg",
-    imageAlt: "Sun Star Movers enclosed moving truck fleet and professional team",
+    image: "/images/moving-truck-loaded-boxes-safe-transport.jpg",
+    imageAlt: "Sun Star Movers enclosed moving truck fleet loaded with padded boxes and furniture",
     intro: [
       "Transporting furniture in open pick-up trucks exposes your valuable belongings to dust, heat, exhaust fumes, and unpredictable weather. Sun Star Movers operates an exclusive fleet of fully enclosed, box-body moving trucks.",
       "Each truck has carpeted/padded interior walls, heavy cargo-securing tie-down rails, and non-slip loading ramps, ensuring your goods remain stationary and unscratched throughout transit.",

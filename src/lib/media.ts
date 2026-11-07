@@ -9,7 +9,6 @@ const img = (id: string, width: number, height: number): GalleryImage => ({
 
 export const galleryImages: GalleryImage[] = [
   img("sun-star-google-maps-hero", 900, 1200),
-  img("sun-star-real-move-1", 800, 493),
   img("sun-star-real-move-2", 1280, 784),
   img("professional-furniture-packing-uae", 1448, 1086),
   img("wardrobe-installation-uae", 1200, 1600),
